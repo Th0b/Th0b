@@ -1,1 +1,1 @@
-Na tomhle propracovaném dokumentu stále pracuji.
+Vítej na mém Githubu mistře!
