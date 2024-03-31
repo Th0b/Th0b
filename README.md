@@ -1,4 +1,4 @@
-Welcome to profile master!
+Welcome on my profile master!
 
 Young and potential (hopefully) creator from Czech republic who loves open source as much as coding.
 I like to contribute and develop projects and I am a proud member of this community.
